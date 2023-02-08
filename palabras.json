@@ -1,0 +1,2429 @@
+{
+    "Sheet1": [
+        {
+            "id_keyword": "730",
+            "language": "spanish",
+            "keyword": "A domicilio",
+            "english_translation": "To address",
+            "meaning": "Outcall",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "731",
+            "language": "spanish",
+            "keyword": "A ser mujer",
+            "english_translation": "To be/become a woman",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "732",
+            "language": "spanish",
+            "keyword": "A-level",
+            "meaning": "Anal sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "733",
+            "language": "spanish",
+            "keyword": "Acompañante",
+            "english_translation": "Escort",
+            "meaning": "Someone who keeps company/escort",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "734",
+            "language": "spanish",
+            "keyword": "Activo",
+            "english_translation": "Active",
+            "meaning": "Active giver in sexual act",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "735",
+            "language": "spanish",
+            "keyword": "Ama",
+            "english_translation": "Dom (female) in BDSM",
+            "age_flag": "False",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "736",
+            "language": "spanish",
+            "keyword": "Americana",
+            "english_translation": "American",
+            "meaning": "Ejaculation on face",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "737",
+            "language": "spanish",
+            "keyword": "Amo",
+            "english_translation": "Dom (male) in BDSM",
+            "age_flag": "False",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "738",
+            "language": "spanish",
+            "keyword": "Angelita",
+            "english_translation": "Little angel",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "739",
+            "language": "spanish",
+            "keyword": "Añitos",
+            "english_translation": "years (\"young/little years\")",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "740",
+            "language": "spanish",
+            "keyword": "Apartamento privado",
+            "english_translation": "Own apartment",
+            "meaning": "Incall",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "741",
+            "language": "spanish",
+            "keyword": "Apartamento propio",
+            "english_translation": "Own apartment",
+            "meaning": "Incall",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "742",
+            "language": "spanish",
+            "keyword": "Aqui por poco tiempo",
+            "english_translation": "Here for a short time",
+            "meaning": "Movement indicator",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "743",
+            "language": "spanish",
+            "keyword": "Ayudante azul",
+            "english_translation": "Blue helper",
+            "meaning": "Viagra",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "744",
+            "language": "spanish",
+            "keyword": "bb",
+            "english_translation": "Baby",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "745",
+            "language": "spanish",
+            "keyword": "bbita",
+            "english_translation": "Little baby",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "746",
+            "language": "spanish",
+            "keyword": "Bebita",
+            "english_translation": "Little baby",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "747",
+            "language": "spanish",
+            "keyword": "Beso azul",
+            "english_translation": "Blue kiss",
+            "meaning": "Sexual acts with asphyxiation, in BDSM",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "748",
+            "language": "spanish",
+            "keyword": "Beso blanco",
+            "english_translation": "White kiss",
+            "meaning": "Ejaculation in mouth followed by kissing",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "749",
+            "language": "spanish",
+            "keyword": "Beso Negro",
+            "english_translation": "Black kiss",
+            "meaning": "Analingus",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "750",
+            "language": "spanish",
+            "keyword": "Bokita",
+            "english_translation": "Little mouth",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "751",
+            "language": "spanish",
+            "keyword": "Bondage",
+            "english_translation": "Bondage",
+            "meaning": "Used in BDSM play",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "752",
+            "language": "spanish",
+            "keyword": "Boquita",
+            "english_translation": "Little mouth",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "753",
+            "language": "spanish",
+            "keyword": "Bukkake",
+            "meaning": "Ejaculation on face",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "754",
+            "language": "spanish",
+            "keyword": "Cangrejera",
+            "english_translation": "Crab-like",
+            "meaning": "Woman contracts vaginal muscles during sex to squeeze ejaculation",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "755",
+            "language": "spanish",
+            "keyword": "Cara de niña",
+            "english_translation": "Baby face",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "756",
+            "language": "spanish",
+            "keyword": "Chica nueva",
+            "english_translation": "New girl",
+            "age_flag": "False",
+            "trafficking_flag": "True",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "757",
+            "language": "spanish",
+            "keyword": "Chiquita",
+            "english_translation": "Little girl",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "758",
+            "language": "spanish",
+            "keyword": "Chiquitita",
+            "english_translation": "Little girl",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "759",
+            "language": "spanish",
+            "keyword": "Compañía",
+            "english_translation": "Company/escort",
+            "meaning": "Someone who keeps company/escort",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "760",
+            "language": "spanish",
+            "keyword": "Complaciente",
+            "english_translation": "Complacent, submissive",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "761",
+            "language": "spanish",
+            "keyword": "Completo",
+            "english_translation": "Complete",
+            "meaning": "Full service",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "762",
+            "language": "spanish",
+            "keyword": "Con preservativo",
+            "english_translation": "With condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "763",
+            "language": "spanish",
+            "keyword": "Coño",
+            "english_translation": "Vagina",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "764",
+            "language": "spanish",
+            "keyword": "Coqueta",
+            "english_translation": "Flirty",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "765",
+            "language": "spanish",
+            "keyword": "Corbata Francésa",
+            "english_translation": "French tie",
+            "meaning": "Penis in between breasts with simultaneous oral sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "766",
+            "language": "spanish",
+            "keyword": "Corta edad",
+            "english_translation": "Young age",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "767",
+            "language": "spanish",
+            "keyword": "Corto tiempo",
+            "english_translation": "Short time",
+            "meaning": "Movement indicator",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "768",
+            "language": "spanish",
+            "keyword": "Cubana",
+            "english_translation": "Cuban",
+            "meaning": "Rubbing penis in between breasts",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "769",
+            "language": "spanish",
+            "keyword": "Cubierto",
+            "english_translation": "Covered",
+            "meaning": "Use of condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "770",
+            "language": "spanish",
+            "keyword": "Cuerpito",
+            "english_translation": "Little body",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "771",
+            "language": "spanish",
+            "keyword": "Cuerpo juvenil",
+            "english_translation": "Juvenile/youthful body",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "772",
+            "language": "spanish",
+            "keyword": "Cuerpo juveníl",
+            "english_translation": "Juvenile/youthful body",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "773",
+            "language": "spanish",
+            "keyword": "Debutando",
+            "english_translation": "Debuting ",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "774",
+            "language": "spanish",
+            "keyword": "Debutante",
+            "english_translation": "Debutante, new",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "775",
+            "language": "spanish",
+            "keyword": "Delgadita",
+            "english_translation": "Little thin (girl)",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "776",
+            "language": "spanish",
+            "keyword": "Depa privado",
+            "english_translation": "Private apartment",
+            "meaning": "Incall",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "777",
+            "language": "spanish",
+            "keyword": "Departamento privado",
+            "english_translation": "Private apartment",
+            "meaning": "Incall",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "778",
+            "language": "spanish",
+            "keyword": "Departamento propio",
+            "english_translation": "Own apartment",
+            "meaning": "Incall",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "779",
+            "language": "spanish",
+            "keyword": "Despedidas",
+            "english_translation": "Bachelor/Bachelorette parties",
+            "meaning": " ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "780",
+            "language": "spanish",
+            "keyword": "Disciplina Inglesa",
+            "english_translation": "English discipline",
+            "meaning": "BDSM play",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "781",
+            "language": "spanish",
+            "keyword": "Discreta",
+            "english_translation": "Discreet",
+            "meaning": " ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "782",
+            "language": "spanish",
+            "keyword": "Domicilio propio",
+            "english_translation": "Own location",
+            "meaning": "Incall",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "783",
+            "language": "spanish",
+            "keyword": "Dulce",
+            "english_translation": "Sweet",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "784",
+            "language": "spanish",
+            "keyword": "Duplex",
+            "english_translation": "Threesome",
+            "meaning": "Two adult service providers with client",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "785",
+            "language": "spanish",
+            "keyword": "Esclava",
+            "english_translation": "Slave (female)",
+            "meaning": "Submissive female in BDSM",
+            "age_flag": "False",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "786",
+            "language": "spanish",
+            "keyword": "Esclavo",
+            "english_translation": "Slave (male)",
+            "meaning": "Submissive male in BDSM",
+            "age_flag": "False",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "787",
+            "language": "spanish",
+            "keyword": "Esclavo sexual",
+            "english_translation": "Sexual slave",
+            "meaning": "BDSM play",
+            "age_flag": "False",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "788",
+            "language": "spanish",
+            "keyword": "Escort independiente",
+            "english_translation": "Independent escort/provider",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "789",
+            "language": "spanish",
+            "keyword": "Estilo porno star",
+            "english_translation": "Porn star style",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "790",
+            "language": "spanish",
+            "keyword": "Estrechita",
+            "english_translation": "Tight (vagina)",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "791",
+            "language": "spanish",
+            "keyword": "Experiencia",
+            "english_translation": "Experience",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "792",
+            "language": "spanish",
+            "keyword": "Experimentada",
+            "english_translation": "Experienced",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "793",
+            "language": "spanish",
+            "keyword": "Fetichismo",
+            "english_translation": "Fetish",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "794",
+            "language": "spanish",
+            "keyword": "Fiesta blanca",
+            "english_translation": "White party",
+            "meaning": "Sexual party with provision of illegal drugs",
+            "age_flag": "False",
+            "trafficking_flag": "True",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "795",
+            "language": "spanish",
+            "keyword": "Fiestas",
+            "english_translation": "Parties",
+            "meaning": "Provision of sexual services for private parties",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "796",
+            "language": "spanish",
+            "keyword": "Final feliz",
+            "english_translation": "Happy ending",
+            "meaning": "Masturbation or oral sex after massage",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "797",
+            "language": "spanish",
+            "keyword": "Forrito",
+            "english_translation": "Condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "798",
+            "language": "spanish",
+            "keyword": "Forro",
+            "english_translation": "Condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "799",
+            "language": "spanish",
+            "keyword": "Fotos privadas",
+            "english_translation": "Private pictures",
+            "meaning": "Taking of pictures of sexual nature for personal use",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "800",
+            "language": "spanish",
+            "keyword": "Francés",
+            "english_translation": "Mutual massage",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "801",
+            "language": "spanish",
+            "keyword": "Francés",
+            "english_translation": "French",
+            "meaning": "Oral sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "802",
+            "language": "spanish",
+            "keyword": "Francés hasta el final",
+            "english_translation": "French until the end",
+            "meaning": "Oral sex with ejaculation in mouth",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "803",
+            "language": "spanish",
+            "keyword": "Francés natural",
+            "english_translation": "Natural french",
+            "meaning": "Oral sex without condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "804",
+            "language": "spanish",
+            "keyword": "Fresca",
+            "english_translation": "Fresh",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "805",
+            "language": "spanish",
+            "keyword": "Full intimidad",
+            "english_translation": "Full intimacy, full service",
+            "meaning": " ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "806",
+            "language": "spanish",
+            "keyword": "Full servicio",
+            "english_translation": "Full service",
+            "meaning": " ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "807",
+            "language": "spanish",
+            "keyword": "Garganta profunda",
+            "english_translation": "Deep throat",
+            "meaning": "Oral sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "808",
+            "language": "spanish",
+            "keyword": "Gatita",
+            "english_translation": "Kitten",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "809",
+            "language": "spanish",
+            "keyword": "Giggolo",
+            "english_translation": "Male escort",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "810",
+            "language": "spanish",
+            "keyword": "Gigolo",
+            "english_translation": "Male escort",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "811",
+            "language": "spanish",
+            "keyword": "Golosa",
+            "english_translation": "Open minded",
+            "meaning": " ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "812",
+            "language": "spanish",
+            "keyword": "Goma",
+            "english_translation": "Rubber",
+            "meaning": "Condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "813",
+            "language": "spanish",
+            "keyword": "Grecia",
+            "english_translation": "Greece",
+            "meaning": "Anal sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "814",
+            "language": "spanish",
+            "keyword": "Greco",
+            "english_translation": "Greek",
+            "meaning": "Anal sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "815",
+            "language": "spanish",
+            "keyword": "Griego",
+            "english_translation": "Greek",
+            "meaning": "Anal sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "816",
+            "language": "spanish",
+            "keyword": "Guapisima",
+            "english_translation": "Beautiful",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "817",
+            "language": "spanish",
+            "keyword": "Hindu",
+            "english_translation": "Hindu-like",
+            "meaning": "Woman contracts vaginal muscles during sex to squeeze ejaculation",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "818",
+            "language": "spanish",
+            "keyword": "Hora relajada",
+            "english_translation": "Relaxed hour",
+            "meaning": "Adult service provider does not focus on time",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "819",
+            "language": "spanish",
+            "keyword": "Horario",
+            "english_translation": "Hours of service",
+            "meaning": "Indicative of sex acts for sale",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "820",
+            "language": "spanish",
+            "keyword": "Ingles",
+            "english_translation": "English",
+            "meaning": "Soft version of sadomasochism ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "821",
+            "language": "spanish",
+            "keyword": "Iniciándome",
+            "english_translation": "Initiating myself/new",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "822",
+            "language": "spanish",
+            "keyword": "Intentos",
+            "english_translation": "Attempts",
+            "meaning": "Orgasms",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "823",
+            "language": "spanish",
+            "keyword": "Intimidad completa",
+            "english_translation": "Complete intimacy",
+            "meaning": "Full service",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "824",
+            "language": "spanish",
+            "keyword": "Intimidad solamente",
+            "english_translation": "Intimacy only",
+            "meaning": "Sexual acts only, no massage",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "825",
+            "language": "spanish",
+            "keyword": "Joven",
+            "english_translation": "Young",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "826",
+            "language": "spanish",
+            "keyword": "Jovencita",
+            "english_translation": "Little young (girl)",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "827",
+            "language": "spanish",
+            "keyword": "Juegos de rol",
+            "english_translation": "Role play",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "828",
+            "language": "spanish",
+            "keyword": "Juguetes",
+            "english_translation": "Toys",
+            "meaning": "Provision of toys for sexual pleasure",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "829",
+            "language": "spanish",
+            "keyword": "Juguetona",
+            "english_translation": "Playful",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "830",
+            "language": "spanish",
+            "keyword": "Kine",
+            "english_translation": "Masseuse ",
+            "meaning": " ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "831",
+            "language": "spanish",
+            "keyword": "Kinesióloga",
+            "english_translation": "Masseuse ",
+            "meaning": " ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "832",
+            "language": "spanish",
+            "keyword": "Lechera",
+            "english_translation": "Milklady",
+            "meaning": "Sexual act involving ejaculation",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "833",
+            "language": "spanish",
+            "keyword": "Lechero",
+            "english_translation": "Milkman",
+            "meaning": "Sexual act involving ejaculation",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "834",
+            "language": "spanish",
+            "keyword": "Liberal",
+            "english_translation": "Open minded",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "835",
+            "language": "spanish",
+            "keyword": "Lluvia blanca",
+            "english_translation": "White shower",
+            "meaning": "Sexcual acts including ejaculation",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "836",
+            "language": "spanish",
+            "keyword": "Lluvia de oro",
+            "english_translation": "Golden shower",
+            "meaning": "Sexual acts including urination",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "837",
+            "language": "spanish",
+            "keyword": "Lluvia dorada",
+            "english_translation": "Golden shower",
+            "meaning": "Sexual acts including urination",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "838",
+            "language": "spanish",
+            "keyword": "Lluvia marrón",
+            "english_translation": "Brown shower",
+            "meaning": "Sexual acts including feces",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "839",
+            "language": "spanish",
+            "keyword": "Lluvia negra",
+            "english_translation": "Black shower",
+            "meaning": "Sexual acts including feces",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "840",
+            "language": "spanish",
+            "keyword": "Lolita",
+            "english_translation": "Describing younger/underage victim",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "841",
+            "language": "spanish",
+            "keyword": "Maduras",
+            "english_translation": "Mature/older women",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "842",
+            "language": "spanish",
+            "keyword": "Madurita",
+            "english_translation": "Mature/older women",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "843",
+            "language": "spanish",
+            "keyword": "Mano emplejo",
+            "english_translation": "Hand job",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "844",
+            "language": "spanish",
+            "keyword": "Marimacho",
+            "english_translation": "Butch",
+            "meaning": "Masculin-like lesbian",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "845",
+            "language": "spanish",
+            "keyword": "Masaje erótico",
+            "english_translation": "Erotic massage",
+            "meaning": " ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "846",
+            "language": "spanish",
+            "keyword": "Masaje inversa",
+            "english_translation": "Inverse massage",
+            "meaning": "Client massages provider",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "847",
+            "language": "spanish",
+            "keyword": "Masaje solo",
+            "english_translation": "Massage only",
+            "meaning": " ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "848",
+            "language": "spanish",
+            "keyword": "Masajista",
+            "english_translation": "Masseuse ",
+            "meaning": " ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "849",
+            "language": "spanish",
+            "keyword": "Máster",
+            "english_translation": "Master",
+            "meaning": "Dom in BDSM play",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "850",
+            "language": "spanish",
+            "keyword": "Medidas",
+            "english_translation": "Measurements",
+            "meaning": "Referring to body measurements",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "851",
+            "language": "spanish",
+            "keyword": "Mejoras",
+            "english_translation": "Improvements",
+            "meaning": "Breast implants",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "852",
+            "language": "spanish",
+            "keyword": "Mente abierta",
+            "english_translation": "Open minded",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "853",
+            "language": "spanish",
+            "keyword": "Menú",
+            "english_translation": "Menu",
+            "meaning": "Menu of services offered",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "854",
+            "language": "spanish",
+            "keyword": "Mezcle de ensalada",
+            "english_translation": "Tossing the salad",
+            "meaning": "Anal sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "855",
+            "language": "spanish",
+            "keyword": "Mitad Mitad",
+            "english_translation": "Half and half",
+            "meaning": "Oral and vaginal sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "856",
+            "language": "spanish",
+            "keyword": "Modelito",
+            "english_translation": "Little model",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "857",
+            "language": "spanish",
+            "keyword": "Modelo",
+            "english_translation": "Model",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "858",
+            "language": "spanish",
+            "keyword": "Mujercita",
+            "english_translation": "Young woman",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "859",
+            "language": "spanish",
+            "keyword": "Muñeca",
+            "english_translation": "Doll",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "860",
+            "language": "spanish",
+            "keyword": "Muñequita",
+            "english_translation": "Little doll",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "861",
+            "language": "spanish",
+            "keyword": "Natasha",
+            "meaning": "Denoting Russian escort",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "862",
+            "language": "spanish",
+            "keyword": "Nena",
+            "english_translation": "(young) girl",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "863",
+            "language": "spanish",
+            "keyword": "Nenita",
+            "english_translation": "Little girl",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "864",
+            "language": "spanish",
+            "keyword": "No cubierto",
+            "english_translation": "Uncovered",
+            "meaning": "No condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "865",
+            "language": "spanish",
+            "keyword": "No traducida",
+            "english_translation": "Untranslated",
+            "meaning": "No condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "866",
+            "language": "spanish",
+            "keyword": "Noche completa",
+            "english_translation": "All night",
+            "meaning": " ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "867",
+            "language": "spanish",
+            "keyword": "Novios",
+            "english_translation": "Lovers/boyfriend-girlfriend experience",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "868",
+            "language": "spanish",
+            "keyword": "Nueva en el ambiente",
+            "english_translation": "New to the area",
+            "meaning": "Movement indicator",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "869",
+            "language": "spanish",
+            "keyword": "Nueva por aqui",
+            "english_translation": "New here",
+            "meaning": "Movement indicator",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "870",
+            "language": "spanish",
+            "keyword": "Nuevita",
+            "english_translation": "Brand new",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "871",
+            "language": "spanish",
+            "keyword": "O-level",
+            "meaning": "Oral sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "872",
+            "language": "spanish",
+            "keyword": "Obtener cerebro",
+            "english_translation": "Receive brain",
+            "meaning": "Oral sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "873",
+            "language": "spanish",
+            "keyword": "Ojo cafe",
+            "english_translation": "Coffee eye",
+            "meaning": "Anal sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "874",
+            "language": "spanish",
+            "keyword": "Onda novia",
+            "english_translation": "Girlfriend experience",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "875",
+            "language": "spanish",
+            "keyword": "Oso",
+            "english_translation": "Bear",
+            "meaning": "Strong and hairy man",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "876",
+            "language": "spanish",
+            "keyword": "Paraguas",
+            "english_translation": "Umbrella",
+            "meaning": "Condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "877",
+            "language": "spanish",
+            "keyword": "Parejas",
+            "english_translation": "Couples",
+            "meaning": "Provision of sexual services for couples",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "878",
+            "language": "spanish",
+            "keyword": "Pasivo",
+            "english_translation": "Passive",
+            "meaning": "Passive receiver in sexual act",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "879",
+            "language": "spanish",
+            "keyword": "Píldora azul",
+            "english_translation": "Blue pill",
+            "meaning": "Viagra",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "880",
+            "language": "spanish",
+            "keyword": "Pintura de la cara",
+            "english_translation": "Face paint",
+            "meaning": "Ejaculation on face",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "881",
+            "language": "spanish",
+            "keyword": "Pisos laminados",
+            "english_translation": "Laminated flooring",
+            "meaning": "No public hair",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "882",
+            "language": "spanish",
+            "keyword": "Pista de aterrizaje",
+            "english_translation": "Landing strip",
+            "meaning": "Manicured public hair",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "883",
+            "language": "spanish",
+            "keyword": "Pocos días",
+            "english_translation": "Few days",
+            "meaning": "Movement indicator",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "884",
+            "language": "spanish",
+            "keyword": "Poquitos días",
+            "english_translation": "Few days",
+            "meaning": "Movement indicator",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "885",
+            "language": "spanish",
+            "keyword": "Primer experiencia",
+            "english_translation": "First experience/first time",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "886",
+            "language": "spanish",
+            "keyword": "Primera experiencia",
+            "english_translation": "First experience/first time",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "887",
+            "language": "spanish",
+            "keyword": "Promo",
+            "english_translation": "Special",
+            "meaning": "Indicative of sex acts for sale",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "888",
+            "language": "spanish",
+            "keyword": "Promoción",
+            "english_translation": "Special",
+            "meaning": "Indicative of sex acts for sale",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "889",
+            "language": "spanish",
+            "keyword": "Promos",
+            "english_translation": "Specials",
+            "meaning": "Indicative of sex acts for sale",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "890",
+            "language": "spanish",
+            "keyword": "Puño",
+            "english_translation": "Fist",
+            "meaning": "Forcing a closed fist up someone's vagina or anus.",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "891",
+            "language": "spanish",
+            "keyword": "que me haga mujer",
+            "english_translation": "To make me a woman",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "892",
+            "language": "spanish",
+            "keyword": "Quebrada",
+            "english_translation": "\"Broken-in\" ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "893",
+            "language": "spanish",
+            "keyword": "Quebradita",
+            "english_translation": "\"Broken-in\" ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "894",
+            "language": "spanish",
+            "keyword": "Recién cumplidos",
+            "english_translation": "Just turned (X years of age)",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "895",
+            "language": "spanish",
+            "keyword": "Recién iniciándome",
+            "english_translation": "Just now initiating myself/brand new",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "896",
+            "language": "spanish",
+            "keyword": "Recien llegada",
+            "english_translation": "Just arrived, new",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "897",
+            "language": "spanish",
+            "keyword": "Recién llegada",
+            "english_translation": "Just arrived, new",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "898",
+            "language": "spanish",
+            "keyword": "Reina almohada",
+            "english_translation": "Pillow queen",
+            "meaning": "Someone who likes to be on the receiving end of sex without much reciprocation",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "899",
+            "language": "spanish",
+            "keyword": "Reverse orales",
+            "english_translation": "Oral reverse",
+            "meaning": "Client performs oral sex on provider",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "900",
+            "language": "spanish",
+            "keyword": "Revisión",
+            "english_translation": "Reviews",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "901",
+            "language": "spanish",
+            "keyword": "Romano",
+            "english_translation": "Roman",
+            "meaning": "Orgy",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "902",
+            "language": "spanish",
+            "keyword": "Rostro angelical",
+            "english_translation": "Angelic face",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "903",
+            "language": "spanish",
+            "keyword": "Ruso",
+            "english_translation": "Russian",
+            "meaning": "Penis rubbing between breasts",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "904",
+            "language": "spanish",
+            "keyword": "Salidas",
+            "english_translation": "Exits",
+            "meaning": "Outcall",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "905",
+            "language": "spanish",
+            "keyword": "Salidas a hoteles",
+            "english_translation": "Outcall to hotels",
+            "meaning": "Outcall",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "906",
+            "language": "spanish",
+            "keyword": "Se mi profesor",
+            "english_translation": "Be my teacher",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "907",
+            "language": "spanish",
+            "keyword": "Seguro",
+            "english_translation": "Safe",
+            "meaning": "Practice of safe sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "908",
+            "language": "spanish",
+            "keyword": "Señorita",
+            "english_translation": "Young lady",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "909",
+            "language": "spanish",
+            "keyword": "Servicio completito",
+            "english_translation": "Full service",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "910",
+            "language": "spanish",
+            "keyword": "Servicio completo",
+            "english_translation": "Full service",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "911",
+            "language": "spanish",
+            "keyword": "Servicios",
+            "english_translation": "Services ",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "912",
+            "language": "spanish",
+            "keyword": "Servicios especiales",
+            "english_translation": "Special services",
+            "meaning": "Open minded",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "913",
+            "language": "spanish",
+            "keyword": "Sesión",
+            "english_translation": "Session",
+            "meaning": "Time spent with an adult service provider",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "914",
+            "language": "spanish",
+            "keyword": "Sifon",
+            "english_translation": "Siphon",
+            "meaning": "Oral sex with ejaculation in/on/near mouth",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "915",
+            "language": "spanish",
+            "keyword": "Sin apuros",
+            "english_translation": "No rush",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "916",
+            "language": "spanish",
+            "keyword": "Sin condón",
+            "english_translation": "Without condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "917",
+            "language": "spanish",
+            "keyword": "Sin limites",
+            "english_translation": "No limits",
+            "age_flag": "False",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "918",
+            "language": "spanish",
+            "keyword": "Sin prisa",
+            "english_translation": "No rush",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "919",
+            "language": "spanish",
+            "keyword": "Sin prisas",
+            "english_translation": "No rush",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "920",
+            "language": "spanish",
+            "keyword": "Sobre la rodilla",
+            "english_translation": "Over the knees",
+            "meaning": "Oral sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "921",
+            "language": "spanish",
+            "keyword": "Sol",
+            "english_translation": "Sun",
+            "meaning": "No condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "922",
+            "language": "spanish",
+            "keyword": "Soleado",
+            "english_translation": "Sunny",
+            "meaning": "No condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "923",
+            "language": "spanish",
+            "keyword": "Sombrero",
+            "english_translation": "Hat",
+            "meaning": "Condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "924",
+            "language": "spanish",
+            "keyword": "Sombrero de fiesta",
+            "english_translation": "Party hat",
+            "meaning": "Condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "925",
+            "language": "spanish",
+            "keyword": "Soy nueva",
+            "english_translation": "I'm new",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "926",
+            "language": "spanish",
+            "keyword": "Suave",
+            "english_translation": "Soft",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "927",
+            "language": "spanish",
+            "keyword": "Sumisa",
+            "english_translation": "Submissive (female) in BDSM",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "928",
+            "language": "spanish",
+            "keyword": "Sumiso",
+            "english_translation": "Submissive (male) in BDSM",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "929",
+            "language": "spanish",
+            "keyword": "Sur de Fráncia",
+            "english_translation": "South of France",
+            "meaning": "Oral sex without condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "930",
+            "language": "spanish",
+            "keyword": "Tailandés",
+            "english_translation": "Thai",
+            "meaning": "Woman rubs breasts all over body",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "931",
+            "language": "spanish",
+            "keyword": "Tan solo",
+            "english_translation": "Only (X years of age)",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "932",
+            "language": "spanish",
+            "keyword": "Tarifa",
+            "english_translation": "Charge",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "933",
+            "language": "spanish",
+            "keyword": "Tazas de cafe",
+            "english_translation": "Cups of coffee",
+            "meaning": "Releases, orgasms",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "934",
+            "language": "spanish",
+            "keyword": "Terapeuta",
+            "english_translation": "Therapist",
+            "meaning": "Massage therapist",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "935",
+            "language": "spanish",
+            "keyword": "Terminación",
+            "english_translation": "Release",
+            "meaning": "Reach orgasm",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "936",
+            "language": "spanish",
+            "keyword": "Tía flo",
+            "english_translation": "Aunt flow",
+            "meaning": "Menstruation",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "937",
+            "language": "spanish",
+            "keyword": "Tierna",
+            "english_translation": "Tender",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "938",
+            "language": "spanish",
+            "keyword": "Tipo novia",
+            "english_translation": "Girlfriend experience",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "939",
+            "language": "spanish",
+            "keyword": "Tiros a puerta",
+            "english_translation": "Shots on goal",
+            "meaning": "Attempts to orgasm",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "940",
+            "language": "spanish",
+            "keyword": "Toda mi juventud",
+            "english_translation": "All my youth",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "941",
+            "language": "spanish",
+            "keyword": "Todo servicio",
+            "english_translation": "Full service",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "942",
+            "language": "spanish",
+            "keyword": "Traducción",
+            "english_translation": "Translation",
+            "meaning": "Condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "943",
+            "language": "spanish",
+            "keyword": "Traducido del Francés",
+            "english_translation": "French translation",
+            "meaning": "Oral sex without condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "944",
+            "language": "spanish",
+            "keyword": "Traductor",
+            "english_translation": "Translator",
+            "meaning": "Condom",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "945",
+            "language": "spanish",
+            "keyword": "Trans",
+            "english_translation": "Transexual",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "946",
+            "language": "spanish",
+            "keyword": "Trato de amantes",
+            "english_translation": "Lovers/boyfriend-girlfriend experience",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "947",
+            "language": "spanish",
+            "keyword": "Trato de novia",
+            "english_translation": "Girlfriend experience",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "948",
+            "language": "spanish",
+            "keyword": "Trato de novio",
+            "english_translation": "Lovers/boyfriend-girlfriend experience",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "949",
+            "language": "spanish",
+            "keyword": "Trato de pareja",
+            "english_translation": "Lovers/boyfriend-girlfriend experience",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "950",
+            "language": "spanish",
+            "keyword": "Trato de polola",
+            "english_translation": "Girlfriend experience",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "951",
+            "language": "spanish",
+            "keyword": "Travestido",
+            "english_translation": "Transvestite",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "952",
+            "language": "spanish",
+            "keyword": "TV",
+            "english_translation": "Transvestite",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "953",
+            "language": "spanish",
+            "keyword": "Universitaria",
+            "english_translation": "College girl",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "954",
+            "language": "spanish",
+            "keyword": "Vainilla",
+            "english_translation": "Vanilla",
+            "meaning": "Plain genital sex without any extras",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "955",
+            "language": "spanish",
+            "keyword": "Vaquera",
+            "english_translation": "Cowgirl",
+            "meaning": "Girl on top facing client",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "956",
+            "language": "spanish",
+            "keyword": "Vaquera inversa",
+            "english_translation": "Reverse cowgirl",
+            "meaning": "Girl on top facing away",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "957",
+            "language": "spanish",
+            "keyword": "Viaje a las islas",
+            "english_translation": "Trip to the islands",
+            "meaning": "Anal sex",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "958",
+            "language": "spanish",
+            "keyword": "Video privado",
+            "english_translation": "Private video",
+            "meaning": "Making of videos of sexual nature for personal use",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "959",
+            "language": "spanish",
+            "keyword": "Vigilante de reloj",
+            "english_translation": "Clock watcher",
+            "meaning": "A provider who counts the minutes until the session is over. Usually used to describe a provider who rushes and does not enjoy her work",
+            "age_flag": "False",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "960",
+            "language": "spanish",
+            "keyword": "x hora",
+            "english_translation": "Per hour",
+            "meaning": "Indicative of sex acts for sale",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "961",
+            "language": "spanish",
+            "keyword": "Pollita",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "962",
+            "language": "spanish",
+            "keyword": "Ultimo dia",
+            "english_translation": "Last day",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "963",
+            "language": "spanish",
+            "keyword": "De regreso ",
+            "english_translation": "Returning",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "964",
+            "language": "spanish",
+            "keyword": "Arrecha",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "965",
+            "language": "spanish",
+            "keyword": "Nueva sede",
+            "english_translation": "New headquarters",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "966",
+            "language": "spanish",
+            "keyword": "Caldo de pollo",
+            "english_translation": "Chicken soup",
+            "meaning": "Referring to child pornography ",
+            "age_flag": "True",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "967",
+            "language": "spanish",
+            "keyword": "cp",
+            "meaning": "Referring to child pornography ",
+            "age_flag": "True",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "968",
+            "language": "spanish",
+            "keyword": "Club penguin",
+            "meaning": "Referring to child pornography ",
+            "age_flag": "True",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "969",
+            "language": "spanish",
+            "keyword": "dp",
+            "meaning": "Referring to child pornography ",
+            "age_flag": "True",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "970",
+            "language": "spanish",
+            "keyword": "Distribución de pizzas",
+            "english_translation": "Pizza distribution",
+            "meaning": "Referring to child pornography ",
+            "age_flag": "True",
+            "trafficking_flag": "True",
+            "movement_flag": "True"
+        },
+        {
+            "id_keyword": "971",
+            "language": "spanish",
+            "keyword": "Copro",
+            "english_translation": "Feces",
+            "meaning": "Act of defecation on a person",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "972",
+            "language": "spanish",
+            "keyword": "Barata",
+            "english_translation": "Cheap",
+            "meaning": "Person gives cheap service",
+            "age_flag": "False",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "973",
+            "language": "spanish",
+            "keyword": "Strap on",
+            "meaning": "A dildo designed to be worn with a harness",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "974",
+            "language": "spanish",
+            "keyword": "Lactante",
+            "english_translation": "Nursling",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "975",
+            "language": "spanish",
+            "keyword": "Perrita",
+            "english_translation": "Little bitch",
+            "meaning": "an offensive name for women often to denote easy access to them",
+            "age_flag": "False",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "976",
+            "language": "spanish",
+            "keyword": "Chicas positivas",
+            "english_translation": "Positive girls",
+            "meaning": "girls very complacent",
+            "age_flag": "False",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "977",
+            "language": "spanish",
+            "keyword": "Peladitas",
+            "english_translation": "Little girls ",
+            "meaning": "Indicative of younger/underage victim",
+            "age_flag": "True",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "978",
+            "language": "spanish",
+            "keyword": "Remojar el té",
+            "english_translation": "Tea bagging",
+            "meaning": "Placing balls in the mouth or on the face of a partner",
+            "age_flag": "False",
+            "trafficking_flag": "False",
+            "movement_flag": "False"
+        },
+        {
+            "id_keyword": "979",
+            "language": "spanish",
+            "keyword": "Efecto señuelo",
+            "english_translation": "Bait and switch",
+            "meaning": "person who shows up is a different one than advertised",
+            "age_flag": "False",
+            "trafficking_flag": "True",
+            "movement_flag": "False"
+        }
+    ]
+}
