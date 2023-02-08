@@ -5,22 +5,16 @@ from database import collection_tweets, collection_errors, collection_keywords
 #Librarty Security
 from dotenv import load_dotenv
 # Dependencies and libraries
-from collections import UserList
 from pandas.io.common import uses_relative
 from numpy.ma.extras import unique
-from bson.objectid import ObjectId
 # Library Tweet Extraction
 from twarc import Twarc2, expansions
 # Database
 from pymongo import errors
 from pymongo import MongoClient
-import json
 # Extra libraries
 import os
 import pandas as pd 
-import requests
-import time
-import json
 import datetime 
 
 print("<------------ MAIN.PY EXECUTION ------------>\n")
@@ -62,8 +56,8 @@ def palabras_claves():
 
 # SEARCH
 def search_full(keywords,client):
-  start_time = datetime.datetime(2022, 5, 1, 0, 0, 0, 0, datetime.timezone.utc)
-  end_time = datetime.datetime(2022, 6, 30, 0, 0, 0, 0, datetime.timezone.utc)
+  start_time = datetime.datetime(2022, 7, 1, 0, 0, 0, 0, datetime.timezone.utc)
+  end_time = datetime.datetime(2022, 8, 30, 0, 0, 0, 0, datetime.timezone.utc)
   search_results = client.search_all(query=keywords + ' lang:es -is:retweet', start_time=start_time, end_time=end_time, max_results=100)
   print("|---- PALABRA CLAVE ")
   print("El query es generado a partir de la palabra: ", keywords)
@@ -124,12 +118,9 @@ def main():
     print("Documentos en colección ERRORS: ", collection_errors.count_documents({})) 
     print("|-----------------------------------------|")
     print("\n")
-    # Escribir el archivo de la metadata sin procesar
-    #with open("tweets_data.json",'a+',encoding='utf-8') as f:
-      #f.write(json.dumps(resultados,ensure_ascii=False,default=str))
-    #return resultados  
 
-      
+
+  
 # CALL EACH FUNCTION -> FULL SEARCH
 
 client = call_twarc() # Call Credentials
