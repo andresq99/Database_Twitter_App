@@ -13,7 +13,17 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
-4. Execute the file main.py
+4. Create a .env file
 ```
-python api.py
+touch .env
+```
+5. Put the credential in the .env file
+```
+BEAR_TOKEN={enter_bear_token}
+USER_NAME={enter_user_name}
+PASSWORD={enter_password}
+```
+7. Execute the file main.py
+```
+python main.py
 ```
