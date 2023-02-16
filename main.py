@@ -33,16 +33,16 @@ def call_twarc():
 # KEYWORDS
 def palabras_claves():
   # READ FILE
-  df = pd.read_json("./palabras.json")
-  new_df = df['Sheet1']
+  df = pd.read_json("./keywords.json")
+  new_df = df['data']
   # VARIABLE TO STORAGE THE KEYWORDS
-  word = [] 
+  hashtag = [] 
   # INSERT IN THE DATABASE
   for i in new_df:
-    ing = i['keyword']
-    word.append(ing)
+    ing = i['Hashtag']
+    hashtag.append(ing)
 
-  if collection_keywords.count_documents({}) == 250:
+  if collection_keywords.count_documents({}) == 30:
     print("La base de datos de palabras claves esta COMPLETA \n")
   else:
     # DATABASE INSERTION
@@ -52,7 +52,7 @@ def palabras_claves():
         except Exception as mist:
             print('Error al insertar las palabras claves en la base de datos')
             print("Detalles: ", mist.details)
-  return word
+  return hashtag
 
 # SEARCH
 def search_full(keywords,client):
@@ -65,15 +65,14 @@ def search_full(keywords,client):
   return(search_results,palabra)
 
 # MAIN / UPLOAD DATABASE
-def main():
+def main(hashtag):
     #Cantidad maxima de tweets a extraer en total (approximado dependiendo de los max_results de cada loop)
-    #resultados = {"data":[]}
     # Queries
     k = 0
-    for i in range(0,3):
+    for i in range(0,len(hashtag)):
         search_total,palabras = search_full(keywords[i],client)
         # Generar la metadata sin tratar en un archivo JSON
-        maximo = 100 #NUMERO MAXIMO POR CADA CICLO *200=TOTAL
+        maximo = 200  #NUMERO MAXIMO POR CADA CICLO 30*100=TOTAL
         i = 1
         j = 0
         for page in search_total:
@@ -125,4 +124,4 @@ def main():
 
 client = call_twarc() # Call Credentials
 keywords = palabras_claves() # Storage keywords
-resultados = main() # Full search (Main function)
+resultados = main(keywords) # Full search (Main function)

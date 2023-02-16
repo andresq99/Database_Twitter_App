@@ -8,6 +8,7 @@ def credential_database():
     USERNAME = os.getenv("USER_NAME")
     PASSWORD = os.getenv("PASSWORD")
     myclient = MongoClient(f"mongodb+srv://{USERNAME}:{PASSWORD}@pasoslibres.ywniq.mongodb.net/?retryWrites=true&w=majority")
+
     try: 
         print("Bases de datos existentes: ", myclient.list_database_names())
         print("CONEXION A LA BASE DE DATOS REALIZADA \n")
@@ -15,6 +16,7 @@ def credential_database():
     except Exception as err:
         print("Error al conectar a la base de datos")
         print("Detalles: ", err.details)
+        print(err)
         print("\n")
 
 myclient = credential_database()
