@@ -72,7 +72,7 @@ def main(hashtag):
     for i in range(0,len(hashtag)):
         search_total,palabras = search_full(keywords[i],client)
         # Generar la metadata sin tratar en un archivo JSON
-        maximo = 200  #NUMERO MAXIMO POR CADA CICLO 30*100=TOTAL
+        maximo = 100  #NUMERO MAXIMO POR CADA CICLO 30*100=TOTAL
         i = 1
         j = 0
         for page in search_total:
@@ -95,7 +95,7 @@ def main(hashtag):
                 k = k+1
                 #Ingresar la palabra de busqueda
                 user['_id'] = user['id']
-                user['palabra'] = palabras
+                user['hashtag'] = palabras
                 user['inserted_at_database'] = datetime.datetime.now()
                 # resultados["data"].append(user)
                 # Insertar en la base de datos 
