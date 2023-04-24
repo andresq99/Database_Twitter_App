@@ -1,0 +1,206 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: hsl(252,30%,95%);
+    color: hsl(252,30%,17%) 
+}
+
+.container{
+    width: 80%;
+    margin:0 auto;
+}
+
+nav{
+    width: 100%;
+    background-color: hsl(252,30%,100%);
+    padding: 0.7rem 0;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+
+nav .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container h4{
+    margin-bottom: 0;
+}
+
+.search-bar {
+    background-color: hsl(252,30%,95%);
+    border-radius: 2rem;
+    padding: 0.6rem 1rem;
+}
+
+.search-bar input[type="search"]{
+    background: transparent;
+    width: 30vw;
+    margin-left: 1rem;
+    font-size: 0.9rem;
+    color: hsl(252,30%,17%);
+}
+
+nav .button{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+
+.btn{
+    display: inline-block;
+    padding: 0.6rem 2rem;
+    font-weight: 500;
+    border-radius: 2rem;
+    cursor: pointer;
+    color:white;
+    background-color: hsl(252,75%,60%);
+    transition: all 300ms ease;
+}
+
+.btn:hover{
+    opacity: 0.8;
+}
+
+.link {
+    color:hsl(252,75%,60%);
+    margin-bottom: 0;
+}
+
+/*HOME*/
+
+#home{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/img/img2.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    text-align: left;
+    padding-top: 50px;
+}
+
+.title {
+    color: white;
+    font-size: 2.2rem;
+}
+
+.text {
+    color: white;
+    width: 40%;
+    font-size: 1.0rem;
+    line-height: 25px;
+}
+
+.info{
+    padding-left: 50px;
+
+}
+
+/*DESCRIPTION*/
+/*Align icons in center with the below*/
+
+.database{
+    text-align: center;
+    padding: 5vw 8vw 0 8vw;  
+}
+
+.database .fea-base{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+    margin-top: 50px;
+}
+
+.database .fea-box{
+    background: hsl(252,30%,95%);
+    text-align: start;
+    padding: 20px;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    border: 1px solid hsl(218,45%,22%);
+    border-radius: 10px;
+}
+
+.mayor {
+    margin: 0;
+    padding-top: 1px;
+    color:rgb(44, 44, 80);
+    font-size: 30px;
+}
+
+.exinfo {
+    padding-top: 10px;
+    font-size: 15px;
+}
+
+
+
+/* DESIGN*/
+.design{
+    text-align: center;
+    padding: 3vw 5vw 0 5vw;  
+    width: 100%;
+}
+
+.design img{
+    height: auto;
+    width: 38%;
+    border-radius: 5px;
+}
+
+.cont{
+    padding: 2vw 2vw 0vw 2vw; 
+}
+ 
+
+.about-text {
+    width: 51%;
+}
+
+.main{
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.about-text button{
+    background-color: hsl(218,45%,22%);
+    
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 8px 30px;
+    border-radius: 10px;
+    transition: .4s;
+    color: white;
+}
+
+
+.cont p{
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.about-text button:hover{
+    background-color: transparent;
+    border: 2px solid hsl(218,45%,22%);
+    color: hsl(218,45%,22%);  
+}
