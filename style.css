@@ -204,3 +204,35 @@ nav .button{
     border: 2px solid hsl(218,45%,22%);
     color: hsl(218,45%,22%);  
 }
+
+/*TABLE*/
+
+.table{
+    width: 80%;
+    margin: auto;
+    text-align: left;
+    padding:5vw 5vw 0 8vw;
+}
+
+table {
+    width: 100%;
+    background-color:hsl(252,30%,95%);
+}
+
+.table h1{
+    font-size: 2.2rem;
+    margin-bottom: 1.2rem;
+}
+
+/*TABLE 2*/
+
+/* .table2{
+    margin: auto;
+    text-align: left;
+    padding:5vw 1vw 0 8vw;
+}
+
+.table2 h1{
+    font-size: 2.2rem;
+    margin-bottom: 1.2rem;
+} */

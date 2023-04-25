@@ -19,8 +19,9 @@
                     <input type="search" placeholder="Search">
                 </div> 
                 <div class="button">
-                    <p class="link"> Login </p>
-                    <button class="btn"> Sign Up </button>
+                    <a href="#tweets"> <p class="link"> Tweet </p> </a> 
+                    <a href="#keywords"> <p class="link"> Keywords </p> </a>
+                    <a href="#errors"> <p class="link"> Errors </p> </a>
                 </div>
             </div>
         </nav>
@@ -71,10 +72,330 @@
         </div>
     </section>
     <!-- TABLE  -->
-    <section class="table">
-        
+    <section class="table" id="tweets">
+        <h1> Tweet </h1>
+        <table>
+            <tr> 
+                <th width="15%" scope="col" style="background-color: #14171a; color:white;"> Campo </th>
+                <th width="10%" scope="col" style="background-color: #14171a; color:white;"> Tipo</th>
+                <th width="45%" scope="col" style="background-color: #14171a; color:white;"> Descripción</th>
+                <th width="30%" scope="col" style="background-color: #14171a; color:white;"> Ejemplo</th>
+            </tr>
+            <tr>
+                <td width="15%"> _id </td>
+                <td width="10%"> ObjectId </td>
+                <td width="45%"> <p> El identificador único del Tweet solicitado. </p> </td>
+                <td width="30%"><p> <code> "_id":"123123123123"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> possibly_sensitive </td>
+                <td width="10%"> Boolean </td>
+                <td width="45%"> <p> Este campo indica que el contenido puede reconocerse como confidencial. </p> </td>
+                <td width="30%"><p> <code> "possibly_sensitive":"false"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> public_metrics </td>
+                <td width="10%"> Object </td>
+                <td width="45%"> <p> Métricas de participación pública para el Tweet en el momento de la solicitud. </p> </td>
+                <td width="30%"><p> 
+                                    <code> 
+                                        "public_metrics":{ <br>
+                                            &nbsp; &nbsp; "retweet_count":3, <br>
+                                            &nbsp; &nbsp; "reply_count":2, <br>
+                                            &nbsp; &nbsp; "like_count":11, <br>
+                                            &nbsp; &nbsp; "quote_count":0 <br>
+                                            &nbsp; &nbsp; "impression_count":0 <br>
+                                        }
+                                    </code> 
+                                </p> 
+                </td>
+            </tr>
+            <tr>
+                <td width="15%"> reply_settings </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> Muestra quién puede responder a un Tweet determinado. Los campos devueltos son "everyone", "mentioned_users" y "followers". </p> </td>
+                <td width="30%"><p> <code>  "reply_settings":"everyone" </code> </p>  </td>
+            </tr>
+            <tr>
+                <td width="15%"> text </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> El texto UTF-8 real del Tweet. </p> </td>
+                <td width="30%"><p> <code>"text":"Solo en el canal de Telegram @RodrigoPoloSinCensura, dinámica de #AMA Ask Me Anything en los comentarios del audio 😉 "</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> entities </td>
+                <td width="10%"> Object </td>
+                <td width="45%"> <p> Las entidades son objetos JSON que proporcionan información adicional sobre hashtags, urls, menciones de usuarios y cashtags asociados con un Tweet. </p> </td>
+                <td width="30%"><p> <code> 
+                                        "entities":{ <br>
+                                            &nbsp;"hashtags":[ <br>
+                                                &nbsp; &nbsp;{ <br>
+                                                    &nbsp; &nbsp; &nbsp;"start":65, <br>
+                                                    &nbsp; &nbsp; &nbsp; "end":69, <br>
+                                                    &nbsp; &nbsp; &nbsp;"tag":"AMA" <br>
+                                                &nbsp; &nbsp;} <br>
+                                            &nbsp;], <br>
+                                            &nbsp; "annotations":[ <br>
+                                                &nbsp; &nbsp;{ <br>
+                                                    &nbsp; &nbsp; &nbsp; "start":20, <br>
+                                                    &nbsp; &nbsp; &nbsp; "end":27, <br>
+                                                    &nbsp; &nbsp; &nbsp; "probability":0.8011 <br>
+                                                    &nbsp; &nbsp; &nbsp; "type": Other <br>
+                                                    &nbsp; &nbsp; &nbsp; "normalized_text":"Telegram" <br>
+                                                &nbsp; &nbsp;} <br>
+                                            &nbsp;], <br>
+                                            &nbsp; "urls":[ <br>
+                                                &nbsp; &nbsp;{ <br>
+                                                    &nbsp; &nbsp; &nbsp; "start":29, <br>
+                                                    &nbsp; &nbsp; &nbsp; "end":52, <br>
+                                                    &nbsp; &nbsp; &nbsp; "url":"https://t.co/1Q8QX0QZ1b", <br>
+                                                    &nbsp; &nbsp; &nbsp; "images":[] <br>
+                                                &nbsp; &nbsp;} <br>
+                                            &nbsp;], <br>
+                                            &nbsp; "mentions":[ <br>
+                                                &nbsp; &nbsp;{ <br>
+                                                    &nbsp; &nbsp; &nbsp; "start":29, <br>
+                                                    &nbsp; &nbsp; &nbsp; "end":46, <br>
+                                                    &nbsp; &nbsp; &nbsp; "username":"RodrigoPoloSinCensura", <br>
+                                                    &nbsp; &nbsp; &nbsp; "id":"123123123123", <br>
+                                                    &nbsp; &nbsp; &nbsp; "name":"Rodrigo Polo" <br>
+                                                &nbsp; &nbsp;} <br>
+                                            ], <br>
+                                            &nbsp; "cashtags":[ <br>
+                                                &nbsp; &nbsp;{ <br>
+                                                    &nbsp; &nbsp; &nbsp; "start":49, <br>
+                                                    &nbsp; &nbsp; &nbsp; "end":53, <br>
+                                                    &nbsp; &nbsp; &nbsp; "tag":"AMA" <br>
+                                                &nbsp; &nbsp;} <br>
+                                            &nbsp;] <br>
+                                        }
+                                    </code> 
+                                </p> 
+                </td>
+            </tr>
+            <tr>
+                <td width="15%"> conversation_id </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> El ID del Tweet del Tweet original de la conversación (que incluye respuestas directas, respuestas de respuestas). </p> </td>
+                <td width="30%"><p> <code> "conversation_id":"1564384955056230400"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> lang </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> Idioma del Tweet, si Twitter lo detecta. </p> </td>
+                <td width="30%"><p> <code> "lang":"es"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> edit_controls </td>
+                <td width="10%"> Object </td>
+                <td width="45%"> <p> Cuando está presente, esto indica cuánto tiempo más se puede editar el Tweet y el número de ediciones restantes. Los tweets solo se pueden editar durante los primeros 30 minutos después de su creación y se pueden editar hasta cinco veces. </p> </td>
+                <td width="30%"><p> <code> 
+                                        "edit_controls":{ <br>
+                                            &nbsp; &nbsp; "edits_remaining":5 <br>
+                                            &nbsp; &nbsp; "is_edit_eligible":true <br>
+                                            &nbsp; &nbsp; "editable_until": 2022-08- &nbsp;&nbsp;&nbsp;&nbsp;29T23:20:12.000Z <br>
+                                        }
+                                    </code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> author_id </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> El identificador único del Usuario que publicó este Tweet. </p> </td>
+                <td width="30%"><p> <code> "author_id":"1243427278891020288"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> created_at </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> Hora de creación del Tweet. </p> </td>
+                <td width="30%"><p> <code> "created_at":"2022-08-29T22:50:12.000Z"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> edit_history_tweet_ids </td>
+                <td width="10%"> Array </td>
+                <td width="45%"> <p> Identificadores únicos que indican todas las versiones de un Tweet. Para los Tweets sin ediciones, habrá un ID. Para los Tweets con un historial de ediciones, habrá varios ID, organizados en orden ascendente que reflejan el orden de las ediciones. </p> </td>
+                <td width="30%"><p> <code> "edit_history_tweet_ids": <br>
+                                            &nbsp;[ <br>
+                                                &nbsp; &nbsp; &nbsp;"1564384955056230400" <br>
+                                            &nbsp;] <br>
+                                    </code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> author </td>
+                <td width="10%"> Object </td>
+                <td width="45%"> <p> El objeto author contiene metadatos de la cuenta de usuario de Twitter que describen al usuario al que se hace referencia. Este contiene: El nombre de usuario, identificador o alias de Twitter con el que este usuario se identifica. La fecha UTC y hora en que se creó la cuenta de usuario en Twitter. El texto de la descripción del perfil de este usuario. La ubicación especificada en el perfil del usuario, si el usuario proporcionó una. La dirección URL de la imagen de perfil de este usuario, tal como se muestra en el perfil del usuario. Detalles sobre la actividad de este usuario. Si este usuario es un usuario verificado de Twitter. El objeto <code> "_twarc"</code> contiene datos de la libreria de extracción utilizada. <code> "hashtag"</code> contiene la palabra clave utilizada para la busqueda del Tweet y author desde la API. Finalmente el campo <code> "inserted_at_database"</code> contiene informacion de fecha y hora de almacenamiento del tweet en la base de datos</p> </td>
+                <td width="30%"><p> <code> 
+                                        "author":{ <br>
+                                        "verified":false, <br>
+                                        "pinned_tweet_id":"1564384955056230400", <br>
+                                        "id":"1243427278891020288", <br>
+                                        "description":"Software Eng. & ind. journalist covering all things tech and more.", <br>
+                                        "profile_image_url":"https://pbs.twimg.com/profile_images/1243427474464671232/8X0BQv1g_normal.jpg", <br>
+                                        "protected":false, <br>
+                                        "name":"Rodrigo Polo", <br>
+                                        "username":"RodrigoPoloSinCensura" <br>
+                                        "url":"https://t.co/2QXQ5ZQ3Zq", <br>
+                                        "entities":
+                                            { <br>
+                                                &nbsp; "url":{ <br>
+                                                    &nbsp; &nbsp; "urls":[ <br>
+                                                        &nbsp; &nbsp; &nbsp; { <br>
+                                                            &nbsp; &nbsp; &nbsp; &nbsp; "start":0, <br>
+                                                            &nbsp; &nbsp; &nbsp; &nbsp; "end":23, <br>
+                                                            &nbsp; &nbsp; &nbsp; &nbsp; "url":"https://t.co/2QXQ5ZQ3Zq", <br>
+                                                            &nbsp; &nbsp; &nbsp; &nbsp; "expanded_url":"https://www.rodrigopolo.com", <br>
+                                                            &nbsp; &nbsp; &nbsp; &nbsp; "display_url":"rodrigopolo.com" <br>
+                                                        &nbsp; &nbsp; &nbsp; } <br>
+                                                    &nbsp; &nbsp; ] <br>
+                                                &nbsp; } <br>
+                                            &nbsp; } <br>
+                                        "entities":
+                                            { <br>
+                                                &nbsp; "description":{ <br>
+                                                    &nbsp; &nbsp; "urls":[ <br>
+                                                        &nbsp; &nbsp; &nbsp; { <br>
+                                                            &nbsp; &nbsp; &nbsp; &nbsp; "start":0, <br>
+                                                            &nbsp; &nbsp; &nbsp; &nbsp; "end":23, <br>
+                                                            &nbsp; &nbsp; &nbsp; &nbsp; "url":"https://t.co/2QXQ5ZQ3Zq", <br>
+                                                            &nbsp; &nbsp; &nbsp; &nbsp; "expanded_url":"https://www.rodrigopolo.com", <br>
+                                                            &nbsp; &nbsp; &nbsp; &nbsp; "display_url":"rodrigopolo.com" <br>
+                                                        &nbsp; &nbsp; &nbsp; } <br>
+                                                    &nbsp; &nbsp; ] <br>
+                                                &nbsp; } <br>
+                                            &nbsp; } <br>
+                                        "public_metrics":
+                                            { <br>
+                                                &nbsp; "followers_count":7115, <br>
+                                                &nbsp; "following_count":493, <br>
+                                                &nbsp; "tweet_count":88949, <br>
+                                                &nbsp; "listed_count":20 <br>
+                                            &nbsp; } <br>
+                                        "created_at":"2020-03-27T22:50:12.000Z", <br>
+                                        "__twarc":{ <br>
+                                            &nbsp; "url":"https://twitter.com/RodrigoPoloSinCensura", <br>
+                                            &nbsp; "version":"2.13.0" <br>
+                                            &nbsp; "retrieved_at":"2023-02-17T02:30:16+00:00" <br>
+                                        &nbsp; } <br>
+                                        "hashtag": "#Ama" <br>
+                                        "inserted_at_database": 2023-02-16T21:30:17.138+00:00 <br>
+                                    } <br>
+                                    </code> </p> </td>
+            </tr>
+        </table>
     </section>
 
+    <!-- TABLE 2 KEYWORDS-->
+    <section class="table" id="keywords">
+        <h1> Palabras Claves </h1>
+        <table cellpadding="1" cellspacing="0" border="1">
+            <tr> 
+                <th width="15%" scope="col" style="background-color: #14171a; color:white;"> Campo </th>
+                <th width="10%" scope="col" style="background-color: #14171a; color:white;"> Tipo</th>
+                <th width="45%" scope="col" style="background-color: #14171a; color:white;"> Descripción</th>
+                <th width="30%" scope="col" style="background-color: #14171a; color:white;"> Ejemplo</th>
+            </tr>
+            <tr>
+                <td width="15%"> _id </td>
+                <td width="10%"> ObjectId </td>
+                <td width="45%"> <p> El identificador único de la palabra clave solicitada. </p> </td>
+                <td width="30%"><p> <code> "_id":"ObjectId('123123123123')"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> language </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> Idioma de la palabra clave. </p> </td>
+                <td width="30%"><p> <code> "language":"spanish"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> keyword </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> Palabra clave. </p> </td>
+                <td width="30%"><p> <code> "keyword": "Esclavo" </code> </p> 
+                </td>
+            </tr>
+            
+            <tr>
+                <td width="15%"> query </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> Solicitud de la palabra clave. </p> </td>
+                <td width="30%"><p> <code> "query":"Esclavo"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> Hashtag </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> Hashtag de la palabra clave para su busqueda. </p> </td>
+                <td width="30%"><p> <code> "Hashtag":"#Esclavo" </code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> english_translation </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> Tradución en inglés de la palabra clave . </p> </td>
+                <td width="30%"><p> <code> "english_translation":"Slave (male)"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> meaning </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> Significado de la palabra clave. </p> </td>
+                <td width="30%"><p> <code> "meaning":"Submissive male in BDSM"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> age_flag </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> Indicador booleano de peligro en edad. </p> </td>
+                <td width="30%"><p> <code> "age_flag":"False"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> trafficking_flag </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> Indicador booleano de peligro de tráfico. </p> </td>
+                <td width="30%"><p> <code> "trafficking_flag":"True"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> movement_flag </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> Indicador booleano de peligro de desplazamiento. </p> </td>
+                <td width="30%"><p> <code> "movement_flag":"False"</code> </p> </td>
+            </tr>
+        </table>
+    </section>
+    <!-- TABLE 3 ERRORS-->
+    <section class="table" id="errors">
+        <h1> Errores </h1>
+        <table cellpadding="1" cellspacing="0" border="1">
+            <tr> 
+                <th width="15%" scope="col" style="background-color: #14171a; color:white;"> Campo </th>
+                <th width="10%" scope="col" style="background-color: #14171a; color:white;"> Tipo</th>
+                <th width="45%" scope="col" style="background-color: #14171a; color:white;"> Descripción</th>
+                <th width="30%" scope="col" style="background-color: #14171a; color:white;"> Ejemplo</th>
+            </tr>
+            <tr>
+                <td width="15%"> _id </td>
+                <td width="10%"> ObjectId </td>
+                <td width="45%"> <p> El identificador único del Error. </p> </td>
+                <td width="30%"><p> <code> "_id":"ObjectId('123123123123')"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> tweet_id </td>
+                <td width="10%"> String </td>
+                <td width="45%"> <p> El identificador único del Tweet donde ocurre el error. </p> </td>
+                <td width="30%"><p> <code> "tweet_id":"1563949999859302401"</code> </p> </td>
+            </tr>
+            <tr>
+                <td width="15%"> error </td>
+                <td width="10%"> Object </td>
+                <td width="45%"> <p> Objeto que contiene la descripción completa del error ocurrido al momento de la inserción de la información hacia la base de datos. Esta contiene: Index. Código. Mensaje del error ocurrido. </p> </td>
+                <td width="30%"><p> <code> 
+                                        "error":  { <br>
+                                            &nbsp; &nbsp; &nbsp; "index": 0, <br>
+                                            &nbsp; &nbsp; &nbsp; "code": 11000, <br>
+                                            &nbsp; &nbsp; &nbsp; "KeyPattern": ["_id": 1], <br>
+                                            &nbsp; &nbsp; &nbsp; "keyValue": ["_id":"1563949999859302401"], <br>
+                                            &nbsp; &nbsp; &nbsp; "errmsg": "E11000 duplicate key &nbsp; &nbsp; &nbsp;error collection: twitterdb.tweets &nbsp; &nbsp; &nbsp; index: id_str_1 dup key: { id_str: &nbsp; &nbsp; &nbsp;\"1563949999859302401\" }" <br>
+                                        } <br>
+                                    </code> </p> 
+                </td>
+            </tr>
+        </table>
+    </section>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
