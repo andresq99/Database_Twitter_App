@@ -27,3 +27,5 @@ PASSWORD={enter_password}
 ```
 python main.py
 ```
+Visit the main webpage 
+https://andresq99.github.io/Database_Twitter_App/
