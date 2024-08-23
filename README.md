@@ -23,9 +23,13 @@ BEAR_TOKEN={enter_bear_token}
 USER_NAME={enter_user_name}
 PASSWORD={enter_password}
 ```
-7. Execute the file main.py
+7. Execute the file main.py (Extract tweets)
 ```
 python main.py
+```
+8. Get an overview of database content
+```
+python read_database.py
 ```
 Visit the main webpage 
 https://andresq99.github.io/Database_Twitter_App/
